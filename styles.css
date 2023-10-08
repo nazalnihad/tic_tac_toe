@@ -1,4 +1,4 @@
-/* Reset some default browser styles */
+
 body {
     margin: 0;
     padding: 0;
@@ -77,3 +77,9 @@ body {
     border: 1px solid #b3afaf;
     border-radius: 10px;
   }
+/* 
+  table .cell{
+    text-align: center;
+    font-size: 20px;
+
+  } */
